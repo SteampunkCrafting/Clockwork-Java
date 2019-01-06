@@ -1,0 +1,2 @@
+# Libraries are allowed to be jar files
+!*.jar
